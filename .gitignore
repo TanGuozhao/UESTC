@@ -1,0 +1,17 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+
+# Local generated files
+*.bak
+*.log
+*.zip
+*.rar
+*.7z
+
+# Keep source documents tracked by default.
+
+# macOS resource fork files
+._*
